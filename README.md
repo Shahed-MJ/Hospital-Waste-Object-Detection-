@@ -27,7 +27,10 @@ The model is trained on a labeled dataset obtained from Roboflow and implemented
 - OpenCV  
 - Matplotlib  
 - Pandas  
-- PyTorch  
+- PyTorch
+  
+## Installation
 
+Install the required dependencies:
 ```bash
 pip install ultralytics roboflow
